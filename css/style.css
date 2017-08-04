@@ -1,12 +1,38 @@
 .jumbotron{
-  background-color:#FFE5CC;
+  background-color:#1abc9c;
   }
   .btn{
     min-width:250px;
+
   }
 img{
     height: 500px;
   }
 .thumbnail{
-  width:350px;
-  height:480px;
+  width:330px;
+  height:500px;
+}
+.container-fluid {
+      padding-top: 70px;
+      padding-bottom: 70px;
+  }
+  .bg-1 {
+      background-color: #1abc9c; /* Green */
+      color: #ffffff;
+  }
+  .bg-2 {
+      background-color: #474e5d; /* Dark Blue */
+      color: #ffffff;
+  }
+  ul{
+    list-style: none;
+  }
+  .bg{
+    background-color: #E8E8EE;
+  }
+  .git{
+    font-weight: bold;
+  }
+  span{
+    color:#993300;
+    }
