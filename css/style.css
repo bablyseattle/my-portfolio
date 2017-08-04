@@ -10,7 +10,6 @@
     border: 2px solid #1abc9c;
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
   }
-
 img{
     height: 500px;
   }
@@ -25,35 +24,35 @@ img{
       padding-top: 70px;
       padding-bottom: 70px;
   }
-  .bg-1 {
+.bg-1 {
       background-color: #1abc9c; /* Green */
       color: #ffffff;
   }
-  .bg-2 {
+.bg-2 {
       background-color: #474e5d; /* Dark Blue */
       color: #ffffff;
 
-  }
-  ul{
+}
+ul{
     list-style: none;
-    text-align: left;
-    margin-top: 50px;
-  }
-  .bg{
+    float: left;
+    margin-top: 30px;
+}
+.bg{
     background-color: #E8E8EE;
-  }
-  .git{
+}
+.git{
     font-weight: bold;
-  }
-  span{
+}
+span{
     color:#993300;
-    }
+}
 .jumbotron .btn{
       background-color:#474e5d;
       color: white;
       border: 2px solid white;
 
-    }
+}
 .social{
   width: 40px;
   height: 40px;
