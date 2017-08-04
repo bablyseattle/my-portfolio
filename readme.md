@@ -14,7 +14,7 @@ It can be easily customized for making other Portfolio pages.
 * To Customize Edit Index.html in text-editor.
 
 ### GitHub Link
- Github [https://github.com/bablyseattle/my-portfolio]
+ Github [https://bablyseattle.github.io/my-portfolio/]
 
 ## Support and contact details
   For questions ,comments and feedback email me at bablyhyd@gmail.com
