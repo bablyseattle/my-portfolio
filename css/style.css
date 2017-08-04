@@ -3,7 +3,7 @@
   margin-top: 50px;
   }
   .btn{
-    min-width:250px;
+    min-width:170px;
     background-color:#474e5d;
     color: white;
     border-radius: 8px;
@@ -17,6 +17,9 @@ img{
 .thumbnail{
   width:330px;
   height:500px;
+  background-image: url("https://static.vecteezy.com/system/resources/previews/000/119/108/non_2x/vector-plain-dirty-grunge-background.jpg");
+  background-size: 100% 100%;
+  position: relative;
 }
 .container-fluid {
       padding-top: 70px;
@@ -29,9 +32,12 @@ img{
   .bg-2 {
       background-color: #474e5d; /* Dark Blue */
       color: #ffffff;
+
   }
   ul{
     list-style: none;
+    text-align: left;
+    margin-top: 50px;
   }
   .bg{
     background-color: #E8E8EE;
@@ -49,6 +55,20 @@ img{
 
     }
 .social{
-  width: 50px;
-  height: 50px;
+  width: 40px;
+  height: 40px;
+}
+h1{
+  text-align: center;
+  margin: 20px;
+}
+.me{
+  margin-left: 40%;
+}
+.caption{
+  text-align: center;
+  position: absolute;
+  left: 10px;
+  bottom:10px;
+
 }
