@@ -3,7 +3,7 @@
 #### By Bably Kumari
 
 ## Description
-My Portfolio is a webpage which contains list of Projects designed my me and my pair at Epicodus.
+Portfolio Landing Page is a webpage which contains list of Projects designed my me and my pair at Epicodus.
 It can be easily customized for making other Portfolio pages.
 
 ## Setup/Installation Requirements
@@ -17,7 +17,7 @@ It can be easily customized for making other Portfolio pages.
  Github [https://github.com/bablyseattle/my-portfolio]
 
 ## Support and contact details
-  For questions ,comments and feedback email me at bablyhyd@gmail.com
+  For questions, comments and feedback email me at mailto:bablyhyd@gmail.com
 
 
 ## Technologies Used
