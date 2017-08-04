@@ -4,6 +4,9 @@
   .btn{
     min-width:250px;
   }
-  img{
-    
+img{
+    height: 500px;
   }
+.thumbnail{
+  width:350px;
+  height:480px;
